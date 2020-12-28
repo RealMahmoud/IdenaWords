@@ -1,0 +1,3091 @@
+[{
+    "name": "go",
+    "desc": "follow a certain course",
+}, {
+    "name": "think",
+    "desc": "judge or regard; look upon; judge",
+}, {
+    "name": "take",
+    "desc": "the income or profit arising from such transactions as the sale of land or other property",
+}, {
+    "name": "give",
+    "desc": "be the cause or source of",
+}, {
+    "name": "come",
+    "desc": "come from; be connected by a relationship of blood, for example",
+}, {
+    "name": "mean",
+    "desc": "(used of sums of money) so small in amount as to deserve contempt",
+}, {
+    "name": "happen",
+    "desc": "come upon, as if by accident; meet with",
+}, {
+    "name": "must",
+    "desc": "the quality of smelling or tasting old or stale or mouldy",
+}, {
+    "name": "pay",
+    "desc": "cancel or discharge a debt",
+}, {
+    "name": "speak",
+    "desc": "exchange thoughts; talk with",
+}, {
+    "name": "expect",
+    "desc": "regard something as probable or likely",
+}, {
+    "name": "spend",
+    "desc": "pay out",
+}, {
+    "name": "pick",
+    "desc": "the quantity of a crop that is harvested",
+}, {
+    "name": "raise",
+    "desc": "call forth (emotions, feelings, and responses)",
+}, {
+    "name": "teach",
+    "desc": "impart skills or knowledge to",
+}, {
+    "name": "forget",
+    "desc": "leave behind unintentionally",
+}, {
+    "name": "save",
+    "desc": "make unnecessary an expenditure or effort",
+}, {
+    "name": "shake",
+    "desc": "move back and forth or sideways",
+}, {
+    "name": "affect",
+    "desc": "have an effect upon",
+}, {
+    "name": "worry",
+    "desc": "be on the mind of",
+}, {
+    "name": "travel",
+    "desc": "change location; move, travel, or proceed, also metaphorically",
+}, {
+    "name": "born",
+    "desc": "being talented through inherited qualities",
+}, {
+    "name": "publish",
+    "desc": "put into print",
+}, {
+    "name": "enable",
+    "desc": "render capable or able for some task",
+}, {
+    "name": "kiss",
+    "desc": "the act of caressing with the lips (or an instance thereof)",
+}, {
+    "name": "achieve",
+    "desc": "to gain with effort",
+}, {
+    "name": "examine",
+    "desc": "put to the test, as for its quality, or give experimental use to",
+}, {
+    "name": "construct",
+    "desc": "make by combining materials and parts",
+}, {
+    "name": "complete",
+    "desc": "without qualification; used informally as (often pejorative) intensifiers",
+}, {
+    "name": "weigh",
+    "desc": "show consideration for; take into account",
+}, {
+    "name": "refuse",
+    "desc": "refuse entrance or membership",
+}, {
+    "name": "operate",
+    "desc": "handle and cause to function",
+}, {
+    "name": "communicate",
+    "desc": "transmit thoughts or feelings",
+}, {
+    "name": "continue",
+    "desc": "continue a certain state, condition, or activity",
+}, {
+    "name": "wipe",
+    "desc": "rub with a circular motion",
+}, {
+    "name": "flow",
+    "desc": "something that resembles a flowing stream in moving continuously",
+}, {
+    "name": "constitute",
+    "desc": "form or compose",
+}, {
+    "name": "overcome",
+    "desc": "get on top of; deal with successfully",
+}, {
+    "name": "adapt",
+    "desc": "adapt or conform oneself to new or different conditions",
+}, {
+    "name": "participate",
+    "desc": "become a participant; be involved in",
+}, {
+    "name": "distribute",
+    "desc": "distribute or disperse widely",
+}, {
+    "name": "explore",
+    "desc": "inquire into",
+}, {
+    "name": "climb",
+    "desc": "go upward with gradual or continuous progress",
+}, {
+    "name": "invite",
+    "desc": "ask someone in a friendly way to do something",
+}, {
+    "name": "educate",
+    "desc": "create by training and teaching",
+}, {
+    "name": "rid",
+    "desc": "relieve from",
+}, {
+    "name": "connect",
+    "desc": "make a logical or causal connection",
+}, {
+    "name": "organize",
+    "desc": "plan and direct (a complex undertaking)",
+}, {
+    "name": "last",
+    "desc": "persist for a specified period of time",
+}, {
+    "name": "depict",
+    "desc": "give a description of",
+}, {
+    "name": "portray",
+    "desc": "assume or act the character of",
+}, {
+    "name": "cool",
+    "desc": "great coolness and composure under strain",
+}, {
+    "name": "hunt",
+    "desc": "an association of huntsmen who hunt for sport",
+}, {
+    "name": "cite",
+    "desc": "refer to for illustration or proof",
+}, {
+    "name": "celebrate",
+    "desc": "behave as expected during of holidays or rites",
+}, {
+    "name": "motivate",
+    "desc": "give an incentive for action",
+}, {
+    "name": "peer",
+    "desc": "a person who is of equal standing with another in a group",
+}, {
+    "name": "assemble",
+    "desc": "collect in one place",
+}, {
+    "name": "wrap",
+    "desc": "arrange or fold as a cover or protection",
+}, {
+    "name": "transform",
+    "desc": "change or alter in form, appearance, or nature",
+}, {
+    "name": "exclude",
+    "desc": "put out or expel from a place",
+}, {
+    "name": "ship",
+    "desc": "go on board",
+}, {
+    "name": "originate",
+    "desc": "bring into being",
+}, {
+    "name": "enrich",
+    "desc": "make better or improve in quality",
+}, {
+    "name": "attach",
+    "desc": "take temporary possession of as a security, by legal authority",
+}, {
+    "name": "attain",
+    "desc": "reach a point in time, or a certain state or level",
+}, {
+    "name": "uphold",
+    "desc": "support against an opponent",
+}, {
+    "name": "repair",
+    "desc": "restore by replacing a part or putting together what is torn or broken",
+}, {
+    "name": "evacuate",
+    "desc": "excrete or discharge from the body",
+}, {
+    "name": "descend",
+    "desc": "move downward and lower, but not necessarily all the way",
+}, {
+    "name": "supervise",
+    "desc": "watch and direct",
+}, {
+    "name": "groan",
+    "desc": "indicate pain, discomfort, or displeasure",
+}, {
+    "name": "discover",
+    "desc": "discover or determine the existence, presence, or fact of",
+}, {
+    "name": "encompass",
+    "desc": "include in scope; include as part of something broader; have as one's sphere or territory",
+}, {
+    "name": "jail",
+    "desc": "lock up or confine, in or as in a jail",
+}, {
+    "name": "equip",
+    "desc": "provide with (something) usually for a specific purpose",
+}, {
+    "name": "jerk",
+    "desc": "a dull stupid fatuous person",
+}, {
+    "name": "hurl",
+    "desc": "make a thrusting forward movement",
+}, {
+    "name": "sip",
+    "desc": "a small drink",
+}, {
+    "name": "disguise",
+    "desc": "the act of concealing the identity of something by modifying its appearance",
+}, {
+    "name": "calm",
+    "desc": "steadiness of mind under stress",
+}, {
+    "name": "manipulate",
+    "desc": "tamper, with the purpose of deception",
+}, {
+    "name": "stabilize",
+    "desc": "make stable and keep from fluctuating or put into an equilibrium",
+}, {
+    "name": "shorten",
+    "desc": "edit by omitting or modifying parts considered indelicate",
+}, {
+    "name": "curse",
+    "desc": "profane or obscene expression usually of surprise or anger",
+}, {
+    "name": "heal",
+    "desc": "provide a cure for, make healthy again",
+}, {
+    "name": "comprise",
+    "desc": "form or compose",
+}, {
+    "name": "adore",
+    "desc": "love intensely",
+}, {
+    "name": "weaken",
+    "desc": "lessen in force or effect",
+}, {
+    "name": "skip",
+    "desc": "jump lightly",
+}, {
+    "name": "smooth",
+    "desc": "(music) without breaks between notes; smooth and connected",
+}, {
+    "name": "wink",
+    "desc": "a very short time (as the time it takes the eye to blink or the heart to beat)",
+}, {
+    "name": "pat",
+    "desc": "having only superficial plausibility",
+}, {
+    "name": "activate",
+    "desc": "put in motion or move to act",
+}, {
+    "name": "cure",
+    "desc": "a medicine or therapy that cures disease or relieve pain",
+}, {
+    "name": "chew",
+    "desc": "a wad of something chewable as tobacco",
+}, {
+    "name": "equate",
+    "desc": "be equivalent or parallel, in mathematics",
+}, {
+    "name": "yearn",
+    "desc": "have a desire for something or someone who is not present",
+}, {
+    "name": "clip",
+    "desc": "cultivate, tend, and cut back the growth of",
+}, {
+    "name": "flirt",
+    "desc": "talk or behave amorously, without serious intentions",
+}, {
+    "name": "prevail",
+    "desc": "prove superior",
+}, {
+    "name": "delete",
+    "desc": "wipe out digitally or magnetically recorded information",
+}, {
+    "name": "underestimate",
+    "desc": "make too low an estimate of",
+}, {
+    "name": "preheat",
+    "desc": "heat beforehand",
+}, {
+    "name": "frown",
+    "desc": "a facial expression of dislike or displeasure",
+}, {
+    "name": "stride",
+    "desc": "a step in walking or running",
+}, {
+    "name": "contemplate",
+    "desc": "think intently and at length, as for spiritual purposes",
+}, {
+    "name": "spawn",
+    "desc": "call forth",
+}, {
+    "name": "restructure",
+    "desc": "construct or form anew or provide with a new structure",
+}, {
+    "name": "recreate",
+    "desc": "give encouragement to",
+}, {
+    "name": "depart",
+    "desc": "move away from a place into another direction",
+}, {
+    "name": "converge",
+    "desc": "be adjacent or come together",
+}, {
+    "name": "moderate",
+    "desc": "make less strong or intense; soften",
+}, {
+    "name": "transmit",
+    "desc": "transmit or serve as the medium for transmission",
+}, {
+    "name": "harden",
+    "desc": "harden by reheating and cooling in oil",
+}, {
+    "name": "accelerate",
+    "desc": "cause to move faster",
+}, {
+    "name": "signify",
+    "desc": "denote or connote",
+}, {
+    "name": "hack",
+    "desc": "cough spasmodically",
+}, {
+    "name": "prosper",
+    "desc": "make steady progress; be at the high point in one's career or reach a high point in historical significance or importance",
+}, {
+    "name": "deepen",
+    "desc": "become more intense",
+}, {
+    "name": "spit",
+    "desc": "expel or eject (saliva or phlegm or sputum) from the mouth",
+}, {
+    "name": "rob",
+    "desc": "rip off; ask an unreasonable price",
+}, {
+    "name": "jog",
+    "desc": "run at a moderately swift pace",
+}, {
+    "name": "ready",
+    "desc": "apprehending and responding with speed and sensitivity",
+}, {
+    "name": "allocate",
+    "desc": "distribute according to a plan or set apart for a special purpose",
+}, {
+    "name": "displace",
+    "desc": "cause to move or shift into a new position or place, both in a concrete and in an abstract sense",
+}, {
+    "name": "dislike",
+    "desc": "an inclination to withhold approval from some person or group",
+}, {
+    "name": "trot",
+    "desc": "run at a moderately swift pace",
+}, {
+    "name": "stun",
+    "desc": "hit something or somebody as if with a sandbag",
+}, {
+    "name": "erode",
+    "desc": "become ground down or deteriorate",
+}, {
+    "name": "grill",
+    "desc": "a restaurant where food is cooked on a grill",
+}, {
+    "name": "rove",
+    "desc": "move about aimlessly or without any destination, often in search of food or employment",
+}, {
+    "name": "deceive",
+    "desc": "be false to; be dishonest with",
+}, {
+    "name": "addict",
+    "desc": "someone who is so ardently devoted to something that it resembles an addiction",
+}, {
+    "name": "mar",
+    "desc": "a mark or flaw that spoils the appearance of something (especially on a person's body)",
+}, {
+    "name": "earmark",
+    "desc": "give or assign a resource to a particular person or cause",
+}, {
+    "name": "cherish",
+    "desc": "be fond of; be attached to",
+}, {
+    "name": "zoom",
+    "desc": "rise rapidly",
+}, {
+    "name": "pertain",
+    "desc": "be relevant to",
+}, {
+    "name": "smuggle",
+    "desc": "import or export without paying customs duties",
+}, {
+    "name": "encircle",
+    "desc": "form or draw a circle around",
+}, {
+    "name": "cede",
+    "desc": "give over; surrender or relinquish to the physical control of another",
+}, {
+    "name": "glitter",
+    "desc": "be shiny, as if wet",
+}, {
+    "name": "resurrect",
+    "desc": "return from the dead",
+}, {
+    "name": "nestle",
+    "desc": "position comfortably",
+}, {
+    "name": "backfire",
+    "desc": "the backward escape of gases and unburned gunpowder after a gun is fired",
+}, {
+    "name": "redesign",
+    "desc": "design anew, make a new design for",
+}, {
+    "name": "prime",
+    "desc": "being at the best stage of development",
+}, {
+    "name": "scout",
+    "desc": "a person employed to keep watch for some anticipated event",
+}, {
+    "name": "mop",
+    "desc": "to wash or wipe with or as if with a mop",
+}, {
+    "name": "subside",
+    "desc": "wear off or die down",
+}, {
+    "name": "stash",
+    "desc": "save up as for future use",
+}, {
+    "name": "idle",
+    "desc": "not having a job",
+}, {
+    "name": "down",
+    "desc": "English physician who first described Down's syndrome (1828-1896)",
+}, {
+    "name": "cloth",
+    "desc": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers",
+}, {
+    "name": "etch",
+    "desc": "carve or cut a design or letters into",
+}, {
+    "name": "corrupt",
+    "desc": "containing errors or alterations",
+}, {
+    "name": "inflate",
+    "desc": "exaggerate or make bigger",
+}, {
+    "name": "reorganize",
+    "desc": "organize anew",
+}, {
+    "name": "suffocate",
+    "desc": "become stultified, suppressed, or stifled",
+}, {
+    "name": "tense",
+    "desc": "cause to be tense and uneasy or nervous or anxious",
+}, {
+    "name": "unnerve",
+    "desc": "disturb the composure of",
+}, {
+    "name": "safeguard",
+    "desc": "a precautionary measure warding off impending danger or damage or injury etc.",
+}, {
+    "name": "underwrite",
+    "desc": "guarantee financial support of",
+}, {
+    "name": "heed",
+    "desc": "pay close attention to; give heed to",
+}, {
+    "name": "clamber",
+    "desc": "climb awkwardly, as if by scrambling",
+}, {
+    "name": "honk",
+    "desc": "cry like a goose",
+}, {
+    "name": "eject",
+    "desc": "put out or expel from a place",
+}, {
+    "name": "gamble",
+    "desc": "take a risk in the hope of a favorable outcome",
+}, {
+    "name": "captivate",
+    "desc": "attract; cause to be enamored",
+}, {
+    "name": "outnumber",
+    "desc": "be larger in number",
+}, {
+    "name": "boo",
+    "desc": "a cry or noise made to express displeasure or contempt",
+}, {
+    "name": "energize",
+    "desc": "cause to be alert and energetic",
+}, {
+    "name": "reprint",
+    "desc": "print anew",
+}, {
+    "name": "sneeze",
+    "desc": "a symptom consisting of the involuntary expulsion of air from the nose",
+}, {
+    "name": "sprawl",
+    "desc": "go, come, or spread in a rambling or irregular way",
+}, {
+    "name": "analyse",
+    "desc": "subject to psychoanalytic treatment",
+}, {
+    "name": "rustle",
+    "desc": "take illegally",
+}, {
+    "name": "budge",
+    "desc": "United States tennis player who in 1938 was the first to win the Australian and French and English and United States singles championship in the same year (1915-2000)",
+}, {
+    "name": "astound",
+    "desc": "affect with wonder",
+}, {
+    "name": "dice",
+    "desc": "cut into cubes",
+}, {
+    "name": "boycott",
+    "desc": "a group's refusal to have commercial dealings with some organization in protest against its policies",
+}, {
+    "name": "provoke",
+    "desc": "call forth (emotions, feelings, and responses)",
+}, {
+    "name": "puff",
+    "desc": "suck in or take (air)",
+}, {
+    "name": "override",
+    "desc": "the act of nullifying; making null and void; counteracting or overriding the effect or force of something",
+}, {
+    "name": "spook",
+    "desc": "a mental representation of some haunting experience",
+}, {
+    "name": "wed",
+    "desc": "take in marriage",
+}, {
+    "name": "understate",
+    "desc": "represent as less significant or important",
+}, {
+    "name": "magnify",
+    "desc": "make large",
+}, {
+    "name": "oppress",
+    "desc": "come down on or keep down by unjust use of one's authority",
+}, {
+    "name": "compost",
+    "desc": "a mixture of decaying vegetation and manure; used as a fertilizer",
+}, {
+    "name": "bulge",
+    "desc": "swell or protrude outwards",
+}, {
+    "name": "abduct",
+    "desc": "take away to an undisclosed location against their will and usually in order to extract a ransom",
+}, {
+    "name": "flop",
+    "desc": "exactly",
+}, {
+    "name": "prowl",
+    "desc": "loiter about, with no apparent aim",
+}, {
+    "name": "revamp",
+    "desc": "provide (a shoe) with a new vamp",
+}, {
+    "name": "slay",
+    "desc": "kill intentionally and with premeditation",
+}, {
+    "name": "wane",
+    "desc": "a gradual decline (in size or strength or power or number)",
+}, {
+    "name": "crackle",
+    "desc": "glazed china with a network of fine cracks on the surface",
+}, {
+    "name": "replay",
+    "desc": "the immediate rebroadcast of some action (especially sports action) that has been recorded on videotape",
+}, {
+    "name": "peg",
+    "desc": "a holder attached to the gunwale of a boat that holds the oar in place and acts as a fulcrum for rowing",
+}, {
+    "name": "hospitalize",
+    "desc": "admit into a hospital",
+}, {
+    "name": "discontinue",
+    "desc": "put an end to a state or an activity",
+}, {
+    "name": "streamline",
+    "desc": "contour economically or efficiently",
+}, {
+    "name": "encase",
+    "desc": "enclose in, or as if in, a case",
+}, {
+    "name": "hobble",
+    "desc": "strap the foreleg and hind leg together on each side (of a horse) in order to keep the legs on the same side moving in unison",
+}, {
+    "name": "lug",
+    "desc": "ancient Celtic god",
+}, {
+    "name": "mull",
+    "desc": "reflect deeply on a subject",
+}, {
+    "name": "befriend",
+    "desc": "become friends with",
+}, {
+    "name": "heft",
+    "desc": "the property of being large in mass",
+}, {
+    "name": "distrust",
+    "desc": "the trait of not trusting others",
+}, {
+    "name": "goad",
+    "desc": "a pointed instrument that is used to prod into a state of motion",
+}, {
+    "name": "tiptoe",
+    "desc": "walk on one's toes",
+}, {
+    "name": "pander",
+    "desc": "someone who procures customers for whores (in England they call a pimp a ponce)",
+}, {
+    "name": "shepherd",
+    "desc": "a herder of sheep (on an open range); someone who keeps the sheep together in a flock",
+}, {
+    "name": "avenge",
+    "desc": "take revenge for a perceived wrong",
+}, {
+    "name": "retake",
+    "desc": "capture again",
+}, {
+    "name": "spout",
+    "desc": "talk in a noisy, excited, or declamatory manner",
+}, {
+    "name": "brandish",
+    "desc": "move or swing back and forth",
+}, {
+    "name": "drone",
+    "desc": "someone who takes more time than necessary; someone who lags behind",
+}, {
+    "name": "flake",
+    "desc": "a crystal of snow",
+}, {
+    "name": "rail",
+    "desc": "a barrier consisting of a horizontal bar and supports",
+}, {
+    "name": "laud",
+    "desc": "praise, glorify, or honor",
+}, {
+    "name": "visualize",
+    "desc": "make visible",
+}, {
+    "name": "retard",
+    "desc": "slow the growth or development of",
+}, {
+    "name": "misuse",
+    "desc": "apply to a wrong thing or person; apply badly or incorrectly",
+}, {
+    "name": "allay",
+    "desc": "satisfy (thirst)",
+}, {
+    "name": "hush",
+    "desc": "cause to be quiet or not talk",
+}, {
+    "name": "grease",
+    "desc": "a thick fatty oil (especially one used to lubricate machinery)",
+}, {
+    "name": "douse",
+    "desc": "slacken",
+}, {
+    "name": "retort",
+    "desc": "answer back",
+}, {
+    "name": "handicap",
+    "desc": "the condition of being unable to perform as a consequence of physical or mental unfitness",
+}, {
+    "name": "memorialize",
+    "desc": "address in a memorial",
+}, {
+    "name": "encapsulate",
+    "desc": "put in a short or concise form; reduce in volume",
+}, {
+    "name": "gloss",
+    "desc": "provide interlinear explanations for words or phrases",
+}, {
+    "name": "resurface",
+    "desc": "appear again",
+}, {
+    "name": "unwrap",
+    "desc": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+}, {
+    "name": "morph",
+    "desc": "cause to change shape in a computer animation",
+}, {
+    "name": "devalue",
+    "desc": "lose in value",
+}, {
+    "name": "fetch",
+    "desc": "be sold for a certain price",
+}, {
+    "name": "tan",
+    "desc": "ratio of the opposite to the adjacent side of a right-angled triangle",
+}, {
+    "name": "noodle",
+    "desc": "informal terms for a human head",
+}, {
+    "name": "codify",
+    "desc": "organize into a code or system, such as a body of law",
+}, {
+    "name": "dye",
+    "desc": "a usually soluble substance for staining or coloring e.g. fabrics or hair",
+}, {
+    "name": "plunder",
+    "desc": "goods or money obtained illegally",
+}, {
+    "name": "divine",
+    "desc": "emanating from God",
+}, {
+    "name": "resuscitate",
+    "desc": "cause to regain consciousness",
+}, {
+    "name": "dent",
+    "desc": "a depression scratched or carved into a surface",
+}, {
+    "name": "reassert",
+    "desc": "strengthen or make more firm",
+}, {
+    "name": "supersede",
+    "desc": "take the place or move into the position of",
+}, {
+    "name": "slog",
+    "desc": "work doggedly or persistently",
+}, {
+    "name": "vest",
+    "desc": "provide with power and authority",
+}, {
+    "name": "familiarize",
+    "desc": "make familiar or conversant with",
+}, {
+    "name": "input",
+    "desc": "signal going into an electronic system",
+}, {
+    "name": "scroll",
+    "desc": "a round shape formed by a series of concentric circles (as formed by leaves or flower petals)",
+}, {
+    "name": "sear",
+    "desc": "cause to wither or parch from exposure to heat",
+}, {
+    "name": "roost",
+    "desc": "sit, as on a branch",
+}, {
+    "name": "throb",
+    "desc": "expand and contract rhythmically; beat rhythmically",
+}, {
+    "name": "swoon",
+    "desc": "pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain",
+}, {
+    "name": "sully",
+    "desc": "United States painter (born in England) of portraits and historical scenes (1783-1872)",
+}, {
+    "name": "puncture",
+    "desc": "reduce or lessen the size or importance of",
+}, {
+    "name": "yelp",
+    "desc": "a sharp high-pitched cry (especially by a dog)",
+}, {
+    "name": "elucidate",
+    "desc": "make free from confusion or ambiguity; make clear",
+}, {
+    "name": "reload",
+    "desc": "load anew",
+}, {
+    "name": "ripen",
+    "desc": "cause to ripen or develop fully",
+}, {
+    "name": "cobble",
+    "desc": "rectangular paving stone with curved top; once used to make roads",
+}, {
+    "name": "huff",
+    "desc": "inhale recreational drugs",
+}, {
+    "name": "furrow",
+    "desc": "a slight depression or fold in the smoothness of a surface",
+}, {
+    "name": "modulate",
+    "desc": "vary the pitch of one's speech",
+}, {
+    "name": "spurt",
+    "desc": "the occurrence of a sudden discharge (as of liquid)",
+}, {
+    "name": "blanch",
+    "desc": "cook (vegetables) briefly",
+}, {
+    "name": "acclaim",
+    "desc": "clap one's hands or shout after performances to indicate approval",
+}, {
+    "name": "impinge",
+    "desc": "impinge or infringe upon",
+}, {
+    "name": "kindle",
+    "desc": "call forth (emotions, feelings, and responses)",
+}, {
+    "name": "chug",
+    "desc": "make a dull, explosive sound",
+}, {
+    "name": "splurge",
+    "desc": "any act of immoderate indulgence",
+}, {
+    "name": "embolden",
+    "desc": "give encouragement to",
+}, {
+    "name": "refurbish",
+    "desc": "make brighter and prettier",
+}, {
+    "name": "nationalize",
+    "desc": "put under state control or ownership",
+}, {
+    "name": "moisten",
+    "desc": "make moist",
+}, {
+    "name": "dislocate",
+    "desc": "move out of position",
+}, {
+    "name": "endear",
+    "desc": "make attractive or lovable",
+}, {
+    "name": "defense",
+    "desc": "the speech act of answering an attack on your assertions",
+}, {
+    "name": "quench",
+    "desc": "satisfy (thirst)",
+}, {
+    "name": "impregnate",
+    "desc": "fill, as with a certain quality",
+}, {
+    "name": "author",
+    "desc": "someone who originates or causes or initiates something",
+}, {
+    "name": "enjoin",
+    "desc": "give instructions to or direct somebody to do something with authority",
+}, {
+    "name": "strategy",
+    "desc": "an elaborate and systematic plan of action",
+}, {
+    "name": "song",
+    "desc": "the act of singing",
+}, {
+    "name": "photo",
+    "desc": "a representation of a person or scene in the form of a print or transparent slide or in digital format",
+}, {
+    "name": "nation",
+    "desc": "a politically organized body of people under a single government",
+}, {
+    "name": "county",
+    "desc": "(United Kingdom) a region created by territorial division for the purpose of local government",
+}, {
+    "name": "mission",
+    "desc": "a group of representatives or delegates",
+}, {
+    "name": "dress",
+    "desc": "cultivate, tend, and cut back the growth of",
+}, {
+    "name": "republican",
+    "desc": "a tributary of the Kansas River that flows from eastern Colorado eastward through Nebraska and Kansas",
+}, {
+    "name": "data",
+    "desc": "a collection of facts from which conclusions may be drawn",
+}, {
+    "name": "attempt",
+    "desc": "make an effort or attempt",
+}, {
+    "name": "rating",
+    "desc": "act of ascertaining or fixing the value or worth of",
+}, {
+    "name": "distribution",
+    "desc": "(statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence",
+}, {
+    "name": "educator",
+    "desc": "someone who educates young people",
+}, {
+    "name": "efficiency",
+    "desc": "skillfulness in avoiding wasted time and effort",
+}, {
+    "name": "provider",
+    "desc": "someone whose business is to supply a particular service or commodity",
+}, {
+    "name": "frame",
+    "desc": "a system of assumptions and standards that sanction behavior and give it meaning",
+}, {
+    "name": "travel",
+    "desc": "change location; move, travel, or proceed, also metaphorically",
+}, {
+    "name": "handful",
+    "desc": "a small number or amount",
+}, {
+    "name": "household",
+    "desc": "a social unit living together",
+}, {
+    "name": "physician",
+    "desc": "a licensed medical practitioner",
+}, {
+    "name": "pine",
+    "desc": "have a desire for something or someone who is not present",
+}, {
+    "name": "signal",
+    "desc": "be a signal for or a symptom of",
+}, {
+    "name": "activist",
+    "desc": "advocating or engaged in activism",
+}, {
+    "name": "measurement",
+    "desc": "the act or process of assigning numbers to phenomena according to a rule",
+}, {
+    "name": "flame",
+    "desc": "shine with a sudden light",
+}, {
+    "name": "burden",
+    "desc": "weight down with a load",
+}, {
+    "name": "expense",
+    "desc": "amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)",
+}, {
+    "name": "cookie",
+    "desc": "the cook on a ranch or at a camp",
+}, {
+    "name": "killing",
+    "desc": "very funny",
+}, {
+    "name": "transformation",
+    "desc": "the act of changing in form or shape or appearance",
+}, {
+    "name": "blanket",
+    "desc": "bedding that keeps a person warm in bed",
+}, {
+    "name": "telescope",
+    "desc": "a magnifier of images of distant objects",
+}, {
+    "name": "territory",
+    "desc": "a region marked off for administrative or other purposes",
+}, {
+    "name": "boundary",
+    "desc": "the greatest possible degree of something",
+}, {
+    "name": "sake",
+    "desc": "Japanese alcoholic beverage made from fermented rice; usually served hot",
+}, {
+    "name": "existence",
+    "desc": "the state or fact of existing",
+}, {
+    "name": "stair",
+    "desc": "support consisting of a place to rest the foot while ascending or descending a stairway",
+}, {
+    "name": "poet",
+    "desc": "a writer of poems (the term is usually reserved for writers of good poetry)",
+}, {
+    "name": "rail",
+    "desc": "a barrier consisting of a horizontal bar and supports",
+}, {
+    "name": "involvement",
+    "desc": "a usually secretive or illicit sexual relationship",
+}, {
+    "name": "complaint",
+    "desc": "(criminal law) a pleading describing some wrong or offense",
+}, {
+    "name": "custom",
+    "desc": "a specific practice of long standing",
+}, {
+    "name": "corridor",
+    "desc": "an enclosed passageway; rooms usually open onto it",
+}, {
+    "name": "arrest",
+    "desc": "take into custody",
+}, {
+    "name": "southwest",
+    "desc": "the southwestern region of the United States generally including New Mexico, Arizona, Texas, California, and sometimes Utah and Colorado",
+}, {
+    "name": "dynamics",
+    "desc": "the branch of mechanics concerned with the forces that cause motions of bodies",
+}, {
+    "name": "demolish",
+    "desc": "destroy completely",
+}, {
+    "name": "programming",
+    "desc": "creating a sequence of instructions to enable the computer to do something",
+}, {
+    "name": "cry",
+    "desc": "utter a sudden loud cry",
+}, {
+    "name": "wish",
+    "desc": "prefer or wish to do something",
+}, {
+    "name": "laugh",
+    "desc": "produce laughter",
+}, {
+    "name": "patron",
+    "desc": "a regular customer",
+}, {
+    "name": "instant",
+    "desc": "a very short time (as the time it takes the eye to blink or the heart to beat)",
+}, {
+    "name": "pond",
+    "desc": "a small lake",
+}, {
+    "name": "ass",
+    "desc": "slang for sexual intercourse",
+}, {
+    "name": "exam",
+    "desc": "a set of questions or exercises evaluating skill or knowledge",
+}, {
+    "name": "interval",
+    "desc": "the difference in pitch between two notes",
+}, {
+    "name": "conduct",
+    "desc": "transmit or serve as the medium for transmission",
+}, {
+    "name": "mandate",
+    "desc": "a territory surrendered by Turkey or Germany after World War I and put under the tutelage of some other European power until they are able to stand by themselves",
+}, {
+    "name": "sympathy",
+    "desc": "sharing the feelings of others (especially feelings of sorrow or anguish)",
+}, {
+    "name": "gut",
+    "desc": "the part of the alimentary canal between the stomach and the anus",
+}, {
+    "name": "marker",
+    "desc": "a distinguishing symbol",
+}, {
+    "name": "flexibility",
+    "desc": "the quality of being adaptable or variable",
+}, {
+    "name": "devil",
+    "desc": "(Judeo-Christian and Islamic religions) chief spirit of evil and adversary of God; tempter of mankind; master of Hell",
+}, {
+    "name": "sensor",
+    "desc": "any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner",
+}, {
+    "name": "critique",
+    "desc": "an essay or article that gives a critical evaluation (as of a book or play)",
+}, {
+    "name": "sibling",
+    "desc": "a person's brother or sister",
+}, {
+    "name": "poster",
+    "desc": "a sign posted in a public place as an advertisement",
+}, {
+    "name": "workout",
+    "desc": "the activity of exerting your muscles in various ways to keep fit",
+}, {
+    "name": "classic",
+    "desc": "of or relating to the first significant period of a civilization, culture, area of study, etc.",
+}, {
+    "name": "ray",
+    "desc": "a group of nearly parallel lines of electromagnetic radiation",
+}, {
+    "name": "frontier",
+    "desc": "an international boundary or the area (often fortified) immediately inside the boundary",
+}, {
+    "name": "indicator",
+    "desc": "a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time",
+}, {
+    "name": "eating",
+    "desc": "the act of consuming food",
+}, {
+    "name": "lyric",
+    "desc": "expressing deep emotion",
+}, {
+    "name": "catalog",
+    "desc": "make an itemized list or catalog of; classify",
+}, {
+    "name": "stack",
+    "desc": "a large tall chimney through which combustion gases and smoke can be evacuated",
+}, {
+    "name": "dot",
+    "desc": "scatter or intersperse like dots or studs",
+}, {
+    "name": "arab",
+    "desc": "a member of a Semitic people originally from the Arabian peninsula and surrounding territories who speaks Arabic and who inhabits much of the Middle East and northern Africa",
+}, {
+    "name": "planner",
+    "desc": "a person who makes plans",
+}, {
+    "name": "processing",
+    "desc": "preparing or putting through a prescribed procedure",
+}, {
+    "name": "destiny",
+    "desc": "the ultimate agency regarded as predetermining the course of events (often personified as a woman)",
+}, {
+    "name": "mate",
+    "desc": "the officer below the master on a commercial ship",
+}, {
+    "name": "greenhouse",
+    "desc": "a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions",
+}, {
+    "name": "specialty",
+    "desc": "an asset of special worth or utility",
+}, {
+    "name": "homeowner",
+    "desc": "someone who owns a home",
+}, {
+    "name": "listener",
+    "desc": "someone who listens attentively",
+}, {
+    "name": "hike",
+    "desc": "an increase in cost",
+}, {
+    "name": "cigar",
+    "desc": "a roll of tobacco for smoking",
+}, {
+    "name": "mainland",
+    "desc": "the main land mass of a country or continent; as distinguished from an island or peninsula",
+}, {
+    "name": "mob",
+    "desc": "a loose affiliation of gangsters in charge of organized criminal activities",
+}, {
+    "name": "turning",
+    "desc": "a movement in a new direction",
+}, {
+    "name": "luxury",
+    "desc": "the quality possessed by something that is excessively expensive",
+}, {
+    "name": "coaching",
+    "desc": "the job of a professional coach",
+}, {
+    "name": "dinosaur",
+    "desc": "any of numerous extinct terrestrial reptiles of the Mesozoic era",
+}, {
+    "name": "excellence",
+    "desc": "an outstanding feature; something in which something or someone excels",
+}, {
+    "name": "prototype",
+    "desc": "a standard or typical example",
+}, {
+    "name": "wash",
+    "desc": "the erosive process of washing away soil or gravel by water (as from a roadway)",
+}, {
+    "name": "accommodation",
+    "desc": "making or becoming suitable; adjusting to circumstances",
+}, {
+    "name": "like",
+    "desc": "prefer or wish to do something",
+}, {
+    "name": "venue",
+    "desc": "the scene of any event or action (especially the place of a meeting)",
+}, {
+    "name": "incidence",
+    "desc": "the relative frequency of occurrence of something",
+}, {
+    "name": "throw",
+    "desc": "cause to go on or to be engaged or set in operation",
+}, {
+    "name": "regression",
+    "desc": "the relation between selected values of x and observed values of y (from which the most probable value of y can be predicted for any value of x)",
+}, {
+    "name": "classification",
+    "desc": "the act of distributing things into classes or categories of the same type",
+}, {
+    "name": "abundance",
+    "desc": "the property of a more than adequate quantity or supply",
+}, {
+    "name": "sleeping",
+    "desc": "quiet and inactive restfulness",
+}, {
+    "name": "verse",
+    "desc": "a piece of poetry",
+}, {
+    "name": "boost",
+    "desc": "an increase in cost",
+}, {
+    "name": "valve",
+    "desc": "a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it",
+}, {
+    "name": "cement",
+    "desc": "a specialized bony substance covering the root of a tooth",
+}, {
+    "name": "hometown",
+    "desc": "the town (or city) where you grew up or where you have your principal residence",
+}, {
+    "name": "click",
+    "desc": "move or strike with a noise",
+}, {
+    "name": "grid",
+    "desc": "a system of high tension cables by which electrical power is distributed throughout a region",
+}, {
+    "name": "spotlight",
+    "desc": "a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage performer",
+}, {
+    "name": "discomfort",
+    "desc": "the state of being tense and feeling pain",
+}, {
+    "name": "editorial",
+    "desc": "an article giving opinions or perspectives",
+}, {
+    "name": "footstep",
+    "desc": "the sound of a step of someone walking",
+}, {
+    "name": "dump",
+    "desc": "sell at artificially low prices",
+}, {
+    "name": "singing",
+    "desc": "smooth and flowing",
+}, {
+    "name": "recorder",
+    "desc": "someone responsible for keeping records",
+}, {
+    "name": "peach",
+    "desc": "a very attractive or seductive looking woman",
+}, {
+    "name": "lottery",
+    "desc": "players buy (or are given) chances and prizes are distributed by casting lots",
+}, {
+    "name": "comeback",
+    "desc": "a quick reply to a question or remark (especially a witty or critical one)",
+}, {
+    "name": "heating",
+    "desc": "utility to warm a building",
+}, {
+    "name": "academic",
+    "desc": "an educator who works at a college or university",
+}, {
+    "name": "insult",
+    "desc": "a deliberately offensive act or something producing the effect of deliberate disrespect",
+}, {
+    "name": "obsession",
+    "desc": "an irrational motive for performing trivial or repetitive actions, even against your will",
+}, {
+    "name": "rationale",
+    "desc": "(law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature)",
+}, {
+    "name": "nutrition",
+    "desc": "a source of materials to nourish the body",
+}, {
+    "name": "proliferation",
+    "desc": "a rapid increase in number (especially a rapid increase in the number of deadly weapons)",
+}, {
+    "name": "viewpoint",
+    "desc": "a place from which something can be viewed",
+}, {
+    "name": "ramp",
+    "desc": "North American perennial having a slender bulb and whitish flowers",
+}, {
+    "name": "con",
+    "desc": "commit to memory; learn by heart",
+}, {
+    "name": "nickname",
+    "desc": "a familiar name for a person (often a shortened version of a person's given name)",
+}, {
+    "name": "verge",
+    "desc": "a ceremonial or emblematic staff",
+}, {
+    "name": "garment",
+    "desc": "provide with clothes or put clothes on",
+}, {
+    "name": "catastrophe",
+    "desc": "a state of extreme (usually irremediable) ruin and misfortune",
+}, {
+    "name": "skillet",
+    "desc": "a pan used for frying foods",
+}, {
+    "name": "hug",
+    "desc": "a tight or amorous embrace",
+}, {
+    "name": "violin",
+    "desc": "bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow",
+}, {
+    "name": "mat",
+    "desc": "twist together or entwine into a confusing mass",
+}, {
+    "name": "rag",
+    "desc": "treat cruelly",
+}, {
+    "name": "stereo",
+    "desc": "two photographs taken from slightly different angles that appear three-dimensional when viewed together",
+}, {
+    "name": "detention",
+    "desc": "a state of being confined (usually for a short time)",
+}, {
+    "name": "pact",
+    "desc": "a written agreement between two states or sovereigns",
+}, {
+    "name": "foam",
+    "desc": "a mass of small bubbles formed in or on a liquid",
+}, {
+    "name": "listing",
+    "desc": "a database containing an ordered array of items (names or topics)",
+}, {
+    "name": "scoring",
+    "desc": "evaluation of performance by assigning a grade or score",
+}, {
+    "name": "transcript",
+    "desc": "a reproduction of a written record (e.g. of a legal or school record)",
+}, {
+    "name": "litter",
+    "desc": "material used to provide a bed for animals",
+}, {
+    "name": "translator",
+    "desc": "a person who translates written messages from one language to another",
+}, {
+    "name": "hurry",
+    "desc": "the act of moving hurriedly and in a careless manner",
+}, {
+    "name": "dependency",
+    "desc": "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)",
+}, {
+    "name": "coconut",
+    "desc": "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics",
+}, {
+    "name": "dating",
+    "desc": "use of chemical analysis to estimate the age of geological specimens",
+}, {
+    "name": "ginger",
+    "desc": "pungent rhizome of the common ginger plant; used fresh as a seasoning especially in Asian cookery",
+}, {
+    "name": "outreach",
+    "desc": "the act of reaching out",
+}, {
+    "name": "catalyst",
+    "desc": "(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected",
+}, {
+    "name": "shack",
+    "desc": "small crude shelter used as a dwelling",
+}, {
+    "name": "paperwork",
+    "desc": "work that involves handling papers: forms or letters or reports etc.",
+}, {
+    "name": "keeper",
+    "desc": "one having charge of buildings or grounds or animals",
+}, {
+    "name": "pinch",
+    "desc": "irritate as if by a nip, pinch, or tear",
+}, {
+    "name": "raft",
+    "desc": "(often followed by `of') a large number or amount or extent",
+}, {
+    "name": "float",
+    "desc": "an air-filled sac near the spinal column in many fishes that helps maintain buoyancy",
+}, {
+    "name": "dropout",
+    "desc": "someone who quits school before graduation",
+}, {
+    "name": "instability",
+    "desc": "the quality or attribute of being unstable and irresolute",
+}, {
+    "name": "saw",
+    "desc": "a power tool for cutting wood",
+}, {
+    "name": "flooding",
+    "desc": "a technique used in behavior therapy; client is flooded with experiences of a particular kind until becoming either averse to them or numbed to them",
+}, {
+    "name": "tornado",
+    "desc": "a purified and potent form of cocaine that is smoked rather than snorted; highly addictive",
+}, {
+    "name": "pharmacy",
+    "desc": "the art and science of preparing and dispensing drugs and medicines,",
+}, {
+    "name": "comic",
+    "desc": "arousing or provoking laughter",
+}, {
+    "name": "slate",
+    "desc": "thin layers of rock used for roofing",
+}, {
+    "name": "catcher",
+    "desc": "(baseball) the person who plays the position of catcher",
+}, {
+    "name": "tortilla",
+    "desc": "thin unleavened pancake made from cornmeal or wheat flour",
+}, {
+    "name": "rancher",
+    "desc": "a person who owns or operates a ranch",
+}, {
+    "name": "chat",
+    "desc": "talk socially without exchanging too much information",
+}, {
+    "name": "vow",
+    "desc": "dedicate to a deity by a vow",
+}, {
+    "name": "bakery",
+    "desc": "a workplace where baked goods (breads and cakes and pastries) are produced or sold",
+}, {
+    "name": "dune",
+    "desc": "a ridge of sand created by the wind; found in deserts or near lakes and oceans",
+}, {
+    "name": "diversion",
+    "desc": "an attack calculated to draw enemy defense away from the point of the principal attack",
+}, {
+    "name": "mustache",
+    "desc": "an unshaved growth of hair on the upper lip",
+}, {
+    "name": "comedian",
+    "desc": "a professional performer who tells jokes and performs comical acts",
+}, {
+    "name": "preview",
+    "desc": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+}, {
+    "name": "swimmer",
+    "desc": "a person who travels through the water by swimming",
+}, {
+    "name": "discretion",
+    "desc": "the power of making free choices unconstrained by external agencies",
+}, {
+    "name": "selling",
+    "desc": "the exchange of goods for an agreed sum of money",
+}, {
+    "name": "maneuver",
+    "desc": "an action aimed at evading an opponent",
+}, {
+    "name": "low",
+    "desc": "no longer sufficient",
+}, {
+    "name": "awe",
+    "desc": "a feeling of profound respect for someone or something",
+}, {
+    "name": "playwright",
+    "desc": "someone who writes plays",
+}, {
+    "name": "sculptor",
+    "desc": "an artist who creates sculptures",
+}, {
+    "name": "vent",
+    "desc": "activity that frees or expresses creative energy or emotion",
+}, {
+    "name": "scout",
+    "desc": "a person employed to keep watch for some anticipated event",
+}, {
+    "name": "grove",
+    "desc": "garden consisting of a small cultivated wood without undergrowth",
+}, {
+    "name": "antenna",
+    "desc": "one of a pair of mobile appendages on the head of e.g. insects and crustaceans; typically sensitive to touch and taste",
+}, {
+    "name": "behalf",
+    "desc": "as the agent of or on someone's part (usually expressed as `on behalf of' rather than `in behalf of')",
+}, {
+    "name": "loading",
+    "desc": "a quantity that can be processed or transported at one time",
+}, {
+    "name": "strand",
+    "desc": "a very slender natural or synthetic fiber",
+}, {
+    "name": "affect",
+    "desc": "have an effect upon",
+}, {
+    "name": "scanner",
+    "desc": "an electronic device that generates a digital representation of an image for data input to a computer",
+}, {
+    "name": "cockpit",
+    "desc": "a pit for cockfights",
+}, {
+    "name": "plum",
+    "desc": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone",
+}, {
+    "name": "knight",
+    "desc": "a chessman shaped to resemble the head of a horse; can move two squares horizontally and one vertically (or vice versa)",
+}, {
+    "name": "lust",
+    "desc": "have a craving, appetite, or great desire for",
+}, {
+    "name": "burner",
+    "desc": "an apparatus for burning fuel (or refuse)",
+}, {
+    "name": "feat",
+    "desc": "a notable achievement",
+}, {
+    "name": "depiction",
+    "desc": "representation by drawing or painting etc",
+}, {
+    "name": "outing",
+    "desc": "a day devoted to an outdoor social gathering",
+}, {
+    "name": "plasma",
+    "desc": "the colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are suspended",
+}, {
+    "name": "probation",
+    "desc": "a trial period during which an offender has time to redeem himself or herself",
+}, {
+    "name": "pirate",
+    "desc": "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
+}, {
+    "name": "saga",
+    "desc": "a narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled Iceland and their descendants but now any prose narrative that resembles such an account",
+}, {
+    "name": "thyme",
+    "desc": "any of various mints of the genus Thymus",
+}, {
+    "name": "pearl",
+    "desc": "a shape that is spherical and small",
+}, {
+    "name": "flake",
+    "desc": "a crystal of snow",
+}, {
+    "name": "degradation",
+    "desc": "a low or downcast state",
+}, {
+    "name": "wax",
+    "desc": "increase in phase",
+}, {
+    "name": "loft",
+    "desc": "a raised shelter in which pigeons are kept",
+}, {
+    "name": "shovel",
+    "desc": "a machine for excavating",
+}, {
+    "name": "freezer",
+    "desc": "electric refrigerator (trade name Deepfreeze) in which food is frozen and stored for long periods of time",
+}, {
+    "name": "adversary",
+    "desc": "someone who offers opposition",
+}, {
+    "name": "diaper",
+    "desc": "garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement",
+}, {
+    "name": "compression",
+    "desc": "applying pressure",
+}, {
+    "name": "nickel",
+    "desc": "a hard malleable ductile silvery metallic element that is resistant to corrosion; used in alloys; occurs in pentlandite and smaltite and garnierite and millerite",
+}, {
+    "name": "promoter",
+    "desc": "a sponsor who books and stages public entertainments",
+}, {
+    "name": "experimentation",
+    "desc": "the testing of an idea",
+}, {
+    "name": "mailing",
+    "desc": "the transmission of a letter",
+}, {
+    "name": "cannon",
+    "desc": "lower part of the leg extending from the hock to the fetlock in hoofed mammals",
+}, {
+    "name": "warranty",
+    "desc": "a written assurance that some product or service will be provided or will meet certain specifications",
+}, {
+    "name": "drummer",
+    "desc": "someone who plays a drum",
+}, {
+    "name": "ballroom",
+    "desc": "large room used mainly for dancing",
+}, {
+    "name": "poisoning",
+    "desc": "the physiological state produced by a poison or other toxic substance",
+}, {
+    "name": "mansion",
+    "desc": "a large and imposing house",
+}, {
+    "name": "performing",
+    "desc": "the performance of a part or role in a drama",
+}, {
+    "name": "motto",
+    "desc": "a favorite saying of a sect or political group",
+}, {
+    "name": "might",
+    "desc": "physical strength",
+}, {
+    "name": "gravy",
+    "desc": "a sudden happening that brings good fortune (as a sudden opportunity to make money)",
+}, {
+    "name": "dryer",
+    "desc": "an appliance that removes moisture",
+}, {
+    "name": "walker",
+    "desc": "an enclosing framework on casters or wheels; helps babies learn to walk",
+}, {
+    "name": "retaliation",
+    "desc": "action taken in return for an injury or offense",
+}, {
+    "name": "loophole",
+    "desc": "an ambiguity (especially one in the text of a law or contract) that makes it possible to evade a difficulty or obligation",
+}, {
+    "name": "digit",
+    "desc": "one of the elements that collectively form a system of numeration",
+}, {
+    "name": "skater",
+    "desc": "someone who skates",
+}, {
+    "name": "organizer",
+    "desc": "a lightweight consumer electronic device that looks like a hand-held computer but instead performs specific tasks; can serve as a diary or a personal database or a telephone or an alarm clock etc.",
+}, {
+    "name": "intuition",
+    "desc": "an impression that something might be the case",
+}, {
+    "name": "tutor",
+    "desc": "a person who gives private instruction (as in singing, acting, etc.)",
+}, {
+    "name": "sociologist",
+    "desc": "a social scientist who studies the institutions and development of human society",
+}, {
+    "name": "taxation",
+    "desc": "government income due to taxation",
+}, {
+    "name": "mediator",
+    "desc": "a negotiator who acts as a link between parties",
+}, {
+    "name": "protector",
+    "desc": "a person who cares for persons or property",
+}, {
+    "name": "entertainer",
+    "desc": "a person who tries to please or amuse",
+}, {
+    "name": "thermometer",
+    "desc": "measuring instrument for measuring temperature",
+}, {
+    "name": "fallout",
+    "desc": "any adverse and unwanted secondary effect",
+}, {
+    "name": "cape",
+    "desc": "a sleeveless garment like a cloak but shorter",
+}, {
+    "name": "muffin",
+    "desc": "a sweet quick bread baked in a cup-shaped pan",
+}, {
+    "name": "barber",
+    "desc": "United States composer (1910-1981)",
+}, {
+    "name": "asthma",
+    "desc": "respiratory disorder characterized by wheezing; usually of allergic origin",
+}, {
+    "name": "marketer",
+    "desc": "someone who promotes or exchanges goods or services for money",
+}, {
+    "name": "announcer",
+    "desc": "reads news, commercials on radio or television",
+}, {
+    "name": "blindness",
+    "desc": "the state of being blind or lacking sight",
+}, {
+    "name": "rainfall",
+    "desc": "water falling in drops from vapor condensed in the atmosphere",
+}, {
+    "name": "abdomen",
+    "desc": "the cavity containing the major viscera; in mammals it is separated from the thorax by the diaphragm",
+}, {
+    "name": "catfish",
+    "desc": "large ferocious northern deep-sea food fishes with strong teeth and no pelvic fins",
+}, {
+    "name": "walkway",
+    "desc": "a path set aside for walking",
+}, {
+    "name": "rogue",
+    "desc": "a deceitful and unreliable scoundrel",
+}, {
+    "name": "cartel",
+    "desc": "a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service",
+}, {
+    "name": "coil",
+    "desc": "a structure consisting of something wound in a continuous series of loops",
+}, {
+    "name": "musical",
+    "desc": "containing or constituting or characterized by pleasing melody",
+}, {
+    "name": "folly",
+    "desc": "the trait of acting stupidly or rashly",
+}, {
+    "name": "eyelid",
+    "desc": "either of two folds of skin that can be moved to cover or open the eye",
+}, {
+    "name": "raise",
+    "desc": "call forth (emotions, feelings, and responses)",
+}, {
+    "name": "insanity",
+    "desc": "relatively permanent disorder of the mind",
+}, {
+    "name": "secondary",
+    "desc": "coil such that current is induced in it by passing a current through the primary coil",
+}, {
+    "name": "blizzard",
+    "desc": "a series of unexpected and unpleasant occurrences",
+}, {
+    "name": "stalk",
+    "desc": "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds",
+}, {
+    "name": "heater",
+    "desc": "device that heats water or supplies warmth to a room",
+}, {
+    "name": "chile",
+    "desc": "a republic in southern South America on the western slopes of the Andes on the south Pacific coast",
+}, {
+    "name": "elegance",
+    "desc": "a quality of neatness and ingenious simplicity in the solution of a problem (especially in science or mathematics)",
+}, {
+    "name": "exclusion",
+    "desc": "the act of forcing out someone or something",
+}, {
+    "name": "glamour",
+    "desc": "alluring beauty or charm (often with sex-appeal)",
+}, {
+    "name": "multiple",
+    "desc": "having or involving or consisting of more than one part or entity or individual",
+}, {
+    "name": "caucus",
+    "desc": "a closed political meeting",
+}, {
+    "name": "inconsistency",
+    "desc": "the relation between propositions that cannot both be true at the same time",
+}, {
+    "name": "wrongdoing",
+    "desc": "activity that transgresses moral or civil law",
+}, {
+    "name": "warden",
+    "desc": "the chief official in charge of a prison",
+}, {
+    "name": "quiz",
+    "desc": "examine someone's knowledge of something",
+}, {
+    "name": "crackdown",
+    "desc": "severely repressive actions",
+}, {
+    "name": "forefront",
+    "desc": "the part in the front or nearest the viewer",
+}, {
+    "name": "acknowledgment",
+    "desc": "a short note recognizing a source of information or of a quoted passage",
+}, {
+    "name": "footing",
+    "desc": "a relation that provides the foundation for something",
+}, {
+    "name": "iceberg",
+    "desc": "a large mass of ice floating at sea; usually broken off of a polar glacier",
+}, {
+    "name": "cache",
+    "desc": "(computer science) RAM memory that is set aside as a specialized buffer storage that is continually updated; used to optimize data transfers between system elements with different characteristics",
+}, {
+    "name": "bandage",
+    "desc": "a piece of soft material that covers and protects an injured part of the body",
+}, {
+    "name": "alert",
+    "desc": "condition of heightened watchfulness or preparation for action",
+}, {
+    "name": "bedside",
+    "desc": "space by the side of a bed (especially the bed of a sick or dying person)",
+}, {
+    "name": "misconception",
+    "desc": "an incorrect conception",
+}, {
+    "name": "scissors",
+    "desc": "a wrestling hold in which you wrap your legs around the opponents body or head and put your feet together and squeeze",
+}, {
+    "name": "termination",
+    "desc": "the end of a word (a suffix or inflectional ending or final morpheme)",
+}, {
+    "name": "dysfunction",
+    "desc": "(medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group",
+}, {
+    "name": "plume",
+    "desc": "clean with one's bill",
+}, {
+    "name": "donkey",
+    "desc": "domestic beast of burden descended from the African wild ass; patient but stubborn",
+}, {
+    "name": "clipping",
+    "desc": "an excerpt cut from a newspaper or magazine",
+}, {
+    "name": "skyline",
+    "desc": "the line at which the sky and Earth appear to meet",
+}, {
+    "name": "hardwood",
+    "desc": "the wood of broad-leaved dicotyledonous trees (as distinguished from the wood of conifers)",
+}, {
+    "name": "patronage",
+    "desc": "a communication that indicates lack of respect by patronizing the recipient",
+}, {
+    "name": "borrower",
+    "desc": "someone who receives something on the promise to return it or its equivalent",
+}, {
+    "name": "cosmetic",
+    "desc": "serving an esthetic rather than a useful purpose",
+}, {
+    "name": "blockbuster",
+    "desc": "an unusually successful hit with widespread popularity and huge sales (especially a movie or play or recording or novel)",
+}, {
+    "name": "whim",
+    "desc": "a sudden desire",
+}, {
+    "name": "tow",
+    "desc": "the act of hauling something (as a vehicle) by means of a hitch or rope",
+}, {
+    "name": "containment",
+    "desc": "a policy of creating strategic alliances in order to check the expansion of a hostile power or ideology or to force it to negotiate peacefully",
+}, {
+    "name": "rationality",
+    "desc": "the quality of being consistent with or based on logic",
+}, {
+    "name": "chandelier",
+    "desc": "branched lighting fixture; often ornate; hangs from the ceiling",
+}, {
+    "name": "titanium",
+    "desc": "a light strong grey lustrous corrosion-resistant metallic element used in strong lightweight alloys (as for airplane parts); the main sources are rutile and ilmenite",
+}, {
+    "name": "sanitation",
+    "desc": "making something sanitary (free of germs) as by sterilizing",
+}, {
+    "name": "clam",
+    "desc": "a piece of paper money worth one dollar",
+}, {
+    "name": "sharing",
+    "desc": "sharing thoughts and feelings",
+}, {
+    "name": "swarm",
+    "desc": "a group of many things in the air or on the ground",
+}, {
+    "name": "corpus",
+    "desc": "capital as contrasted with the income derived from it",
+}, {
+    "name": "suppression",
+    "desc": "forceful prevention; putting down by power or authority",
+}, {
+    "name": "wink",
+    "desc": "a very short time (as the time it takes the eye to blink or the heart to beat)",
+}, {
+    "name": "positioning",
+    "desc": "causing to fall into line or into position",
+}, {
+    "name": "substitution",
+    "desc": "an event in which one thing is substituted for another",
+}, {
+    "name": "homelessness",
+    "desc": "the state or condition of having no home (especially the state of living in the streets)",
+}, {
+    "name": "resurrection",
+    "desc": "(New Testament) the rising of Christ on the third day after the Crucifixion",
+}, {
+    "name": "drizzle",
+    "desc": "very light rain; stronger than mist but less than a shower",
+}, {
+    "name": "subsistence",
+    "desc": "a means of surviving",
+}, {
+    "name": "gamble",
+    "desc": "take a risk in the hope of a favorable outcome",
+}, {
+    "name": "accompaniment",
+    "desc": "a musical part (vocal or instrumental) that supports or provides background for other musical parts",
+}, {
+    "name": "detachment",
+    "desc": "the act of releasing from an attachment or connection",
+}, {
+    "name": "incorporation",
+    "desc": "learning (of values or attitudes etc.) that is incorporated within yourself",
+}, {
+    "name": "rebuilding",
+    "desc": "building again",
+}, {
+    "name": "bison",
+    "desc": "any of several large humped bovids having shaggy manes and large heads and short horns",
+}, {
+    "name": "original",
+    "desc": "something that serves as a model or a basis for making copies",
+}, {
+    "name": "festivity",
+    "desc": "any joyous diversion",
+}, {
+    "name": "connotation",
+    "desc": "what you must know in order to determine the reference of an expression",
+}, {
+    "name": "intolerance",
+    "desc": "impatience with annoyances",
+}, {
+    "name": "demolition",
+    "desc": "an event (or the result of an event) that completely destroys something",
+}, {
+    "name": "offensive",
+    "desc": "causing or able to cause nausea",
+}, {
+    "name": "primer",
+    "desc": "any igniter that is used to initiate the burning of a propellant",
+}, {
+    "name": "tributary",
+    "desc": "tending to bring about; being partly responsible for",
+}, {
+    "name": "yarn",
+    "desc": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving",
+}, {
+    "name": "stabilization",
+    "desc": "the act of making something (as a vessel or aircraft) less likely to overturn",
+}, {
+    "name": "ion",
+    "desc": "a particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons",
+}, {
+    "name": "coward",
+    "desc": "English dramatist and actor and composer noted for his witty and sophisticated comedies (1899-1973)",
+}, {
+    "name": "dormitory",
+    "desc": "a college or university building containing living quarters for students",
+}, {
+    "name": "eyeball",
+    "desc": "the ball-shaped capsule containing the vertebrate eye",
+}, {
+    "name": "birch",
+    "desc": "a switch consisting of a twig or a bundle of twigs from a birch tree; used to hit people as punishment",
+}, {
+    "name": "adjective",
+    "desc": "of or relating to or functioning as an adjective",
+}, {
+    "name": "calculator",
+    "desc": "a small machine that is used for mathematical calculations; can be mechanical or electronic",
+}, {
+    "name": "monologue",
+    "desc": "speech you make to yourself",
+}, {
+    "name": "sprig",
+    "desc": "a small branch or division of a branch (especially a terminal division); usually applied to branches of the current or preceding year",
+}, {
+    "name": "lunchtime",
+    "desc": "the customary or habitual hour for eating lunch",
+}, {
+    "name": "powerhouse",
+    "desc": "a highly energetic and indefatigable person",
+}, {
+    "name": "headphone",
+    "desc": "electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear",
+}, {
+    "name": "complexion",
+    "desc": "the coloring of a person's face",
+}, {
+    "name": "birthplace",
+    "desc": "where something originated or was nurtured in its early existence",
+}, {
+    "name": "treasury",
+    "desc": "negotiable debt obligations of the United States government which guarantees that interest and principal payments will be paid on time",
+}, {
+    "name": "testosterone",
+    "desc": "a potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics",
+}, {
+    "name": "rebirth",
+    "desc": "the revival of learning and culture",
+}, {
+    "name": "chatter",
+    "desc": "talk socially without exchanging too much information",
+}, {
+    "name": "revolver",
+    "desc": "a door consisting of four orthogonal partitions that rotate about a central pivot; a door designed to equalize the air pressure in tall buildings",
+}, {
+    "name": "visitation",
+    "desc": "an annoying or frustrating or catastrophic event",
+}, {
+    "name": "specificity",
+    "desc": "the quality of being specific rather than general",
+}, {
+    "name": "biopsy",
+    "desc": "examination of tissues or liquids from the living body to determine the existence or cause of a disease",
+}, {
+    "name": "prosthesis",
+    "desc": "corrective consisting of a replacement for a part of the body",
+}, {
+    "name": "zinc",
+    "desc": "a bluish-white lustrous metallic element; brittle at ordinary temperatures but malleable when heated; used in a wide variety of alloys and in galvanizing iron; it occurs naturally as zinc sulphide in zinc blende",
+}, {
+    "name": "cutback",
+    "desc": "a reduction in quantity or rate",
+}, {
+    "name": "hamstring",
+    "desc": "one of the tendons at the back of the knee",
+}, {
+    "name": "timer",
+    "desc": "(sports) an official who keeps track of the time elapsed",
+}, {
+    "name": "depot",
+    "desc": "a depository for goods",
+}, {
+    "name": "cellphone",
+    "desc": "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver",
+}, {
+    "name": "glucose",
+    "desc": "a monosaccharide sugar that has several forms; an important source of physiological energy",
+}, {
+    "name": "diffusion",
+    "desc": "the act of dispersing or diffusing something",
+}, {
+    "name": "splendor",
+    "desc": "a quality that outshines the usual",
+}, {
+    "name": "plateau",
+    "desc": "a relatively flat highland",
+}, {
+    "name": "stillness",
+    "desc": "calmness without winds",
+}, {
+    "name": "wicker",
+    "desc": "work made of interlaced slender branches (especially willow branches)",
+}, {
+    "name": "backseat",
+    "desc": "a seat at the back of a vehicle (especially the seat at the back of an automobile)",
+}, {
+    "name": "vaccination",
+    "desc": "taking a vaccine as a precaution against contracting a disease",
+}, {
+    "name": "nitrate",
+    "desc": "any compound containing the nitrate group (such as a salt or ester of nitric acid)",
+}, {
+    "name": "sparkle",
+    "desc": "merriment expressed by a brightness or gleam or animation of countenance",
+}, {
+    "name": "throttle",
+    "desc": "kill by squeezing the throat of so as to cut off the air",
+}, {
+    "name": "outpatient",
+    "desc": "a patient who does not reside in the hospital where he is being treated",
+}, {
+    "name": "allusion",
+    "desc": "passing reference or indirect mention",
+}, {
+    "name": "tack",
+    "desc": "gear for a horse",
+}, {
+    "name": "partisan",
+    "desc": "an ardent and enthusiastic supporter of some person or activity",
+}, {
+    "name": "alloy",
+    "desc": "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten",
+}, {
+    "name": "ignition",
+    "desc": "the mechanism that ignites the fuel in an internal-combustion engine",
+}, {
+    "name": "heroism",
+    "desc": "the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)",
+}, {
+    "name": "bookshelf",
+    "desc": "a shelf on which to keep books",
+}, {
+    "name": "doorbell",
+    "desc": "a push button at an outer door that gives a ringing or buzzing signal when pushed",
+}, {
+    "name": "bulldozer",
+    "desc": "large powerful tractor; a large blade in front flattens areas of ground",
+}, {
+    "name": "lore",
+    "desc": "knowledge gained through tradition or anecdote",
+}, {
+    "name": "fray",
+    "desc": "a noisy fight",
+}, {
+    "name": "cosmology",
+    "desc": "the branch of astrophysics that studies the origin and evolution and structure of the universe",
+}, {
+    "name": "boyhood",
+    "desc": "the childhood of a boy",
+}, {
+    "name": "abyss",
+    "desc": "a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively)",
+}, {
+    "name": "unhappiness",
+    "desc": "emotions experienced when not in a state of well-being",
+}, {
+    "name": "blink",
+    "desc": "keep back by blinking",
+}, {
+    "name": "modesty",
+    "desc": "freedom from vanity or conceit",
+}, {
+    "name": "raccoon",
+    "desc": "an omnivorous nocturnal mammal native to North America and Central America",
+}, {
+    "name": "stockholder",
+    "desc": "someone who holds shares of stock in a corporation",
+}, {
+    "name": "sprint",
+    "desc": "a quick run",
+}, {
+    "name": "demo",
+    "desc": "give an exhibition of to an interested audience",
+}, {
+    "name": "sync",
+    "desc": "make synchronous and adjust in time or manner",
+}, {
+    "name": "muse",
+    "desc": "reflect deeply on a subject",
+}, {
+    "name": "piety",
+    "desc": "righteousness by virtue of being pious",
+}, {
+    "name": "ledger",
+    "desc": "a record in which commercial accounts are recorded",
+}, {
+    "name": "kissing",
+    "desc": "affectionate play (or foreplay without contact with the genital organs)",
+}, {
+    "name": "finder",
+    "desc": "optical device that helps a user to find the target of interest",
+}, {
+    "name": "subset",
+    "desc": "a set whose members are members of another set; a set contained within another set",
+}, {
+    "name": "cramp",
+    "desc": "prevent the progress or free movement of",
+}, {
+    "name": "fondness",
+    "desc": "a quality proceeding from feelings of affection or love",
+}, {
+    "name": "moderator",
+    "desc": "any substance used to slow down neutrons in nuclear reactors",
+}, {
+    "name": "bullpen",
+    "desc": "a large cell where prisoners (people awaiting trial or sentence or refugees or illegal immigrants) are confined together temporarily",
+}, {
+    "name": "stealth",
+    "desc": "avoiding detection by moving carefully",
+}, {
+    "name": "fluency",
+    "desc": "the quality of being facile in speech and writing",
+}, {
+    "name": "indulgence",
+    "desc": "an inability to resist the gratification of whims and desires",
+}, {
+    "name": "bearer",
+    "desc": "someone whose employment involves carrying something",
+}, {
+    "name": "flush",
+    "desc": "turn red, as if in embarrassment or shame",
+}, {
+    "name": "propeller",
+    "desc": "a mechanical device that rotates to push against air or water",
+}, {
+    "name": "caterpillar",
+    "desc": "a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work",
+}, {
+    "name": "mouthful",
+    "desc": "a small amount eaten or drunk",
+}, {
+    "name": "scheduling",
+    "desc": "setting an order and time for planned events",
+}, {
+    "name": "rattle",
+    "desc": "a rapid series of short loud sounds (as might be heard with a stethoscope in some types of respiratory disorders)",
+}, {
+    "name": "polity",
+    "desc": "the form of government of a social organization",
+}, {
+    "name": "captor",
+    "desc": "a person who captures and holds people or animals",
+}, {
+    "name": "bleachers",
+    "desc": "(used in the plural) an outdoor grandstand without a roof; patrons are exposed to the sun as linens are when they are bleached",
+}, {
+    "name": "spreadsheet",
+    "desc": "a screen-oriented interactive program enabling a user to lay out financial data on the screen",
+}, {
+    "name": "expatriate",
+    "desc": "a person who is voluntarily absent from home or country",
+}, {
+    "name": "slam",
+    "desc": "an aggressive remark directed at a person like a missile and intended to have a telling effect",
+}, {
+    "name": "sailboat",
+    "desc": "a small sailing vessel; usually with a single mast",
+}, {
+    "name": "cardiologist",
+    "desc": "a specialist in cardiology; a specialist in the structure and function and disorders of the heart",
+}, {
+    "name": "accuser",
+    "desc": "someone who imputes guilt or blame",
+}, {
+    "name": "poppy",
+    "desc": "annual or biennial or perennial herbs having showy flowers",
+}, {
+    "name": "postage",
+    "desc": "a small adhesive token stuck on a letter or package to indicate that that postal fees have been paid",
+}, {
+    "name": "windfall",
+    "desc": "a sudden happening that brings good fortune (as a sudden opportunity to make money)",
+}, {
+    "name": "pocketbook",
+    "desc": "a pocket-size case for holding papers and paper money",
+}, {
+    "name": "inefficiency",
+    "desc": "unskillfulness resulting from a lack of efficiency",
+}, {
+    "name": "conduit",
+    "desc": "a passage (a pipe or tunnel) through which water or electric wires can pass",
+}, {
+    "name": "detergent",
+    "desc": "having cleansing power",
+}, {
+    "name": "binder",
+    "desc": "something used to tie or bind",
+}, {
+    "name": "arcade",
+    "desc": "a structure composed of a series of arches supported by columns",
+}, {
+    "name": "patriot",
+    "desc": "one who loves and defends his or her country",
+}, {
+    "name": "mourner",
+    "desc": "a person who is feeling grief (as grieving over someone who has died)",
+}, {
+    "name": "skylight",
+    "desc": "a window in a roof to admit daylight",
+}, {
+    "name": "idiom",
+    "desc": "an expression whose meanings cannot be inferred from the meanings of the words that make it up",
+}, {
+    "name": "gorge",
+    "desc": "overeat or eat immodestly; make a pig of oneself",
+}, {
+    "name": "insomnia",
+    "desc": "an inability to sleep; chronic sleeplessness",
+}, {
+    "name": "modality",
+    "desc": "a classification of propositions on the basis of whether they claim necessity or possibility or impossibility",
+}, {
+    "name": "dislocation",
+    "desc": "the act of disrupting an established order so it fails to continue",
+}, {
+    "name": "delinquency",
+    "desc": "an antisocial misdeed in violation of the law by a minor",
+}, {
+    "name": "stalemate",
+    "desc": "a situation in which no progress can be made or no advancement is possible",
+}, {
+    "name": "naming",
+    "desc": "the act of putting a person into a non-elective position",
+}, {
+    "name": "culmination",
+    "desc": "a final climactic stage",
+}, {
+    "name": "wastewater",
+    "desc": "water mixed with waste matter",
+}, {
+    "name": "concussion",
+    "desc": "any violent blow",
+}, {
+    "name": "siding",
+    "desc": "a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass",
+}, {
+    "name": "self-control",
+    "desc": "the trait of resolutely controlling your own behavior",
+}, {
+    "name": "garb",
+    "desc": "provide with clothes or put clothes on",
+}, {
+    "name": "chap",
+    "desc": "a long narrow depression in a surface",
+}, {
+    "name": "meltdown",
+    "desc": "severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping",
+}, {
+    "name": "sarcasm",
+    "desc": "witty language used to convey insults or scorn",
+}, {
+    "name": "seaside",
+    "desc": "the shore of a sea or ocean regarded as a resort",
+}, {
+    "name": "dick",
+    "desc": "someone who is a detective",
+}, {
+    "name": "shifting",
+    "desc": "(of soil) unstable",
+}, {
+    "name": "jeweler",
+    "desc": "someone who makes jewelry",
+}, {
+    "name": "blazer",
+    "desc": "lightweight single-breasted jacket; often striped in the colors of a club or school",
+}, {
+    "name": "crimson",
+    "desc": "turn red, as if in embarrassment or shame",
+}, {
+    "name": "innocent",
+    "desc": "not knowledgeable about something specified",
+}, {
+    "name": "boardroom",
+    "desc": "a room where a committee meets (such as the board of directors of a company)",
+}, {
+    "name": "fluke",
+    "desc": "a stroke of luck",
+}, {
+    "name": "escalator",
+    "desc": "a clause in a contract that provides for an increase or a decrease in wages or prices or benefits etc. depending on certain conditions (as a change in the cost of living index)",
+}, {
+    "name": "elasticity",
+    "desc": "the tendency of a body to return to its original shape after it has been stretched or compressed",
+}, {
+    "name": "immunization",
+    "desc": "the act of making immune (especially by inoculation)",
+}, {
+    "name": "medallion",
+    "desc": "an award for winning a championship or commemorating some other event",
+}, {
+    "name": "lightweight",
+    "desc": "someone who is unimportant but cheeky and presumptuous",
+}, {
+    "name": "screenwriter",
+    "desc": "someone who writes screenplays",
+}, {
+    "name": "rigidity",
+    "desc": "the quality of being rigid and rigorously severe",
+}, {
+    "name": "misinformation",
+    "desc": "information that is incorrect",
+}, {
+    "name": "cornfield",
+    "desc": "a field planted with corn",
+}, {
+    "name": "swagger",
+    "desc": "a proud stiff pompous gait",
+}, {
+    "name": "quarantine",
+    "desc": "enforced isolation of patients suffering from a contagious disease in order to prevent the spread of disease",
+}, {
+    "name": "mainframe",
+    "desc": "(computer science) the part of a computer (a microprocessor chip) that does most of the data processing",
+}, {
+    "name": "inlet",
+    "desc": "an opening through which fluid is admitted to a tube or container",
+}, {
+    "name": "spanish",
+    "desc": "the people of Spain",
+}, {
+    "name": "reverie",
+    "desc": "absentminded dreaming while awake",
+}, {
+    "name": "fang",
+    "desc": "a Bantu language spoken in Cameroon",
+}, {
+    "name": "heron",
+    "desc": "Greek mathematician and inventor who devised a way to determine the area of a triangle and who described various mechanical devices (first century)",
+}, {
+    "name": "sonar",
+    "desc": "a measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return",
+}, {
+    "name": "relativism",
+    "desc": "(philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved",
+}, {
+    "name": "roundup",
+    "desc": "a summary list; as in e.g.",
+}, {
+    "name": "foresight",
+    "desc": "seeing ahead; knowing in advance; foreseeing",
+}, {
+    "name": "critter",
+    "desc": "a regional term for `creature' (especially for domestic animals)",
+}, {
+    "name": "cultivar",
+    "desc": "a variety of a plant developed from a natural species and maintained under cultivation",
+}, {
+    "name": "pang",
+    "desc": "a mental pain or distress",
+}, {
+    "name": "mascara",
+    "desc": "makeup that is used to darken and thicken the eye lashes",
+}, {
+    "name": "brazilian",
+    "desc": "a native or inhabitant of Brazil",
+}, {
+    "name": "stardom",
+    "desc": "the status of being acknowledged as a star",
+}, {
+    "name": "eatery",
+    "desc": "a building where people go to eat",
+}, {
+    "name": "yearbook",
+    "desc": "a reference book that is published regularly once every year",
+}, {
+    "name": "amnesia",
+    "desc": "partial or total loss of memory",
+}, {
+    "name": "commonality",
+    "desc": "a class composed of persons lacking clerical or noble rank",
+}, {
+    "name": "prudence",
+    "desc": "knowing how to avoid embarrassment or distress",
+}, {
+    "name": "polluter",
+    "desc": "a person or organization that causes pollution of the environment",
+}, {
+    "name": "traditionalist",
+    "desc": "one who adheres to traditional views",
+}, {
+    "name": "snowfall",
+    "desc": "precipitation falling from clouds in the form of ice crystals",
+}, {
+    "name": "grocer",
+    "desc": "a retail merchant who sells foodstuffs (and some household supplies)",
+}, {
+    "name": "rebuttal",
+    "desc": "(law) a pleading by the defendant in reply to a plaintiff's surrejoinder",
+}, {
+    "name": "more",
+    "desc": "(comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree",
+}, {
+    "name": "payer",
+    "desc": "a person who pays money for something",
+}, {
+    "name": "clamp",
+    "desc": "a device (generally used by carpenters) that holds things firmly together",
+}, {
+    "name": "infield",
+    "desc": "the area of a baseball field that is enclosed by 3 bases and home plate",
+}, {
+    "name": "purchaser",
+    "desc": "a person who buys",
+}, {
+    "name": "looter",
+    "desc": "someone who takes spoils or plunder (as in war)",
+}, {
+    "name": "truffle",
+    "desc": "creamy chocolate candy",
+}, {
+    "name": "scribe",
+    "desc": "someone employed to make written copies of documents and manuscripts",
+}, {
+    "name": "laundering",
+    "desc": "washing clothes and bed linens",
+}, {
+    "name": "premier",
+    "desc": "be performed for the first time",
+}, {
+    "name": "paternity",
+    "desc": "the act of initiating a new idea or theory or writing",
+}, {
+    "name": "trope",
+    "desc": "language used in a figurative or nonliteral sense",
+}, {
+    "name": "visor",
+    "desc": "a piece of armor plate (with eye slits) fixed or hinged to a medieval helmet to protect the face",
+}, {
+    "name": "duffel",
+    "desc": "a coarse heavy woolen fabric",
+}, {
+    "name": "craze",
+    "desc": "state of violent mental agitation",
+}, {
+    "name": "micro",
+    "desc": "extremely small in scale or scope or capability",
+}, {
+    "name": "seawater",
+    "desc": "water containing salts",
+}, {
+    "name": "coke",
+    "desc": "street names for cocaine",
+}, {
+    "name": "infertility",
+    "desc": "the state of being unable to produce offspring; in a woman it is an inability to conceive; in a man it is an inability to impregnate",
+}, {
+    "name": "skunk",
+    "desc": "American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae",
+}, {
+    "name": "ram",
+    "desc": "force into or from an action or state, either physically or metaphorically",
+}, {
+    "name": "disservice",
+    "desc": "an act intended to help that turns out badly",
+}, {
+    "name": "secession",
+    "desc": "an Austrian school of art and architecture parallel to the French art nouveau in the 1890s",
+}, {
+    "name": "skipper",
+    "desc": "an officer who is licensed to command a merchant ship",
+}, {
+    "name": "sterling",
+    "desc": "highest in quality",
+}, {
+    "name": "karate",
+    "desc": "a traditional Japanese system of unarmed combat; sharp blows and kicks are given to pressure-sensitive points on the body of the opponent",
+}, {
+    "name": "rainwater",
+    "desc": "drops of fresh water that fall as precipitation from clouds",
+}, {
+    "name": "checker",
+    "desc": "variegate with different colors, shades, or patterns",
+}, {
+    "name": "incubator",
+    "desc": "apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants",
+}, {
+    "name": "printout",
+    "desc": "the output of a computer in printed form",
+}, {
+    "name": "dumping",
+    "desc": "selling goods abroad at a price below that charged in the domestic market",
+}, {
+    "name": "airman",
+    "desc": "someone who operates an aircraft",
+}, {
+    "name": "felt",
+    "desc": "change texture so as to become matted and felt-like",
+}, {
+    "name": "sorority",
+    "desc": "a social club for female undergraduates",
+}, {
+    "name": "prank",
+    "desc": "a ludicrous or grotesque act done for fun and amusement",
+}, {
+    "name": "fireball",
+    "desc": "a highly energetic and indefatigable person",
+}, {
+    "name": "scum",
+    "desc": "worthless people",
+}, {
+    "name": "conjunction",
+    "desc": "the state of being joined together",
+}, {
+    "name": "cinder",
+    "desc": "a fragment of incombustible matter left after a wood or coal or charcoal fire",
+}, {
+    "name": "vandalism",
+    "desc": "willful wanton and malicious destruction of the property of others",
+}, {
+    "name": "wasteland",
+    "desc": "an uninhabited wilderness that is worthless for cultivation",
+}, {
+    "name": "huddle",
+    "desc": "crouch or curl up",
+}, {
+    "name": "mammoth",
+    "desc": "so exceedingly large or extensive as to suggest a giant or mammoth",
+}, {
+    "name": "coursework",
+    "desc": "work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course",
+}, {
+    "name": "entryway",
+    "desc": "something that provides access (to get in or get out)",
+}, {
+    "name": "hiding",
+    "desc": "the activity of keeping something secret",
+}, {
+    "name": "paneling",
+    "desc": "a panel or section of panels in a wall or door",
+}, {
+    "name": "perfectionist",
+    "desc": "a person who is displeased by anything that does not meet very high standards",
+}, {
+    "name": "mismatch",
+    "desc": "a bad or unsuitable match",
+}, {
+    "name": "shaking",
+    "desc": "a shaky motion",
+}, {
+    "name": "subordination",
+    "desc": "the semantic relation of being subordinate or belonging to a lower rank or class",
+}, {
+    "name": "legalization",
+    "desc": "the act of making lawful",
+}, {
+    "name": "swine",
+    "desc": "stout-bodied short-legged omnivorous animals",
+}, {
+    "name": "scab",
+    "desc": "someone who works (or provides workers) during a strike",
+}, {
+    "name": "handiwork",
+    "desc": "a work produced by hand labor",
+}, {
+    "name": "cottonwood",
+    "desc": "American basswood of the Allegheny region",
+}, {
+    "name": "earmark",
+    "desc": "give or assign a resource to a particular person or cause",
+}, {
+    "name": "predation",
+    "desc": "an act of plundering and pillaging and marauding",
+}, {
+    "name": "newsprint",
+    "desc": "cheap paper made from wood pulp and used for printing newspapers",
+}, {
+    "name": "sheaf",
+    "desc": "a package of several things tied together for carrying or storing",
+}, {
+    "name": "cynic",
+    "desc": "someone who is critical of the motives of others",
+}, {
+    "name": "knocking",
+    "desc": "the sound of knocking (as on a door or in an engine or bearing)",
+}, {
+    "name": "parenthesis",
+    "desc": "a message that departs from the main subject",
+}, {
+    "name": "yoke",
+    "desc": "link with or as with a yoke",
+}, {
+    "name": "bottleneck",
+    "desc": "a narrowing that reduces the flow through a channel",
+}, {
+    "name": "particulate",
+    "desc": "a small discrete mass of solid or liquid matter that remains individually dispersed in gas or liquid emissions (usually considered to be an atmospheric pollutant)",
+}, {
+    "name": "hoot",
+    "desc": "something of little value",
+}, {
+    "name": "resettlement",
+    "desc": "the transportation of people (as a family or colony) to a new settlement (as after an upheaval of some kind)",
+}, {
+    "name": "crosstalk",
+    "desc": "the presence of an unwanted signal via an accidental coupling",
+}, {
+    "name": "twitch",
+    "desc": "make an uncontrolled, short, jerky motion",
+}, {
+    "name": "midpoint",
+    "desc": "a point equidistant from the ends of a line or the extremities of a figure",
+}, {
+    "name": "capitalization",
+    "desc": "the sale of capital stock",
+}, {
+    "name": "furor",
+    "desc": "a sudden outburst (as of protest)",
+}, {
+    "name": "clothesline",
+    "desc": "a cord on which clothes are hung to dry",
+}, {
+    "name": "qualifier",
+    "desc": "a content word that qualifies the meaning of a noun or verb",
+}, {
+    "name": "slaughterhouse",
+    "desc": "a building where animals are butchered",
+}, {
+    "name": "carver",
+    "desc": "United States botanist and agricultural chemist who developed many uses for peanuts and soy beans and sweet potatoes (1864-1943)",
+}, {
+    "name": "undercurrent",
+    "desc": "a current below the surface of a fluid",
+}, {
+    "name": "synonym",
+    "desc": "two words that can be interchanged in a context are said to be synonymous relative to that context",
+}, {
+    "name": "marine",
+    "desc": "a member of the United States Marine Corps",
+}, {
+    "name": "sabotage",
+    "desc": "destroy property or hinder normal operations",
+}, {
+    "name": "politeness",
+    "desc": "a courteous manner that respects accepted social usage",
+}, {
+    "name": "syntax",
+    "desc": "the grammatical arrangement of words in sentences",
+}, {
+    "name": "airspace",
+    "desc": "the space in the atmosphere immediately above the earth",
+}, {
+    "name": "sweating",
+    "desc": "the process of the sweat glands of the skin secreting a salty fluid",
+}, {
+    "name": "posse",
+    "desc": "a temporary police force",
+}, {
+    "name": "dialog",
+    "desc": "a literary composition in the form of a conversation between two people",
+}, {
+    "name": "meningitis",
+    "desc": "infectious disease characterized by inflammation of the meninges (the tissues that surround the brain or spinal cord) usually caused by a bacterial infection; symptoms include headache and stiff neck and fever and nausea",
+}, {
+    "name": "brunette",
+    "desc": "marked by dark or relatively dark pigmentation of hair or skin or eyes",
+}, {
+    "name": "bash",
+    "desc": "hit hard",
+}, {
+    "name": "harmonica",
+    "desc": "a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole",
+}, {
+    "name": "infringement",
+    "desc": "a crime less serious than a felony",
+}, {
+    "name": "downstairs",
+    "desc": "on or of lower floors of a building",
+}, {
+    "name": "gondola",
+    "desc": "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+}, {
+    "name": "antigen",
+    "desc": "any substance (as a toxin or enzyme) that stimulates an immune response in the body (especially the production of antibodies)",
+}, {
+    "name": "goldfish",
+    "desc": "small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes",
+}, {
+    "name": "deceit",
+    "desc": "a misleading falsehood",
+}, {
+    "name": "screaming",
+    "desc": "sharp piercing cry",
+}, {
+    "name": "amputee",
+    "desc": "someone who has had a limb removed by amputation",
+}, {
+    "name": "airfare",
+    "desc": "the fare charged for traveling by airplane",
+}, {
+    "name": "frond",
+    "desc": "compound leaf of a fern or palm or cycad",
+}, {
+    "name": "spying",
+    "desc": "the act of keeping a secret watch for intelligence purposes",
+}, {
+    "name": "caddie",
+    "desc": "act as a caddie and carry clubs for a player",
+}, {
+    "name": "organic",
+    "desc": "a fertilizer that is derived from animal or vegetable matter",
+}, {
+    "name": "gunpoint",
+    "desc": "the gun muzzle's direction",
+}, {
+    "name": "flirtation",
+    "desc": "playful behavior intended to arouse sexual interest",
+}, {
+    "name": "campaigning",
+    "desc": "the campaign of a candidate to be elected",
+}, {
+    "name": "betting",
+    "desc": "preoccupied with the pursuit of pleasure and especially games of chance",
+}, {
+    "name": "rote",
+    "desc": "memorization by repetition",
+}, {
+    "name": "hustle",
+    "desc": "a rapid active commotion",
+}, {
+    "name": "falsehood",
+    "desc": "the act of rendering something false as by fraudulent changes (of documents or measures etc.) or counterfeiting",
+}, {
+    "name": "barb",
+    "desc": "an aggressive remark directed at a person like a missile and intended to have a telling effect",
+}, {
+    "name": "chewing",
+    "desc": "biting and grinding food in your mouth so it becomes soft enough to swallow",
+}, {
+    "name": "humanist",
+    "desc": "of or pertaining to Renaissance humanism",
+}, {
+    "name": "rump",
+    "desc": "the part of an animal that corresponds to the human buttocks",
+}, {
+    "name": "mister",
+    "desc": "a form of address for a man",
+}, {
+    "name": "thong",
+    "desc": "leather strip that forms the flexible part of a whip",
+}, {
+    "name": "matron",
+    "desc": "a married woman (usually middle-aged with children) who is staid and dignified",
+}, {
+    "name": "jumpsuit",
+    "desc": "one-piece garment fashioned after a parachutist's uniform",
+}, {
+    "name": "punctuation",
+    "desc": "the marks used to clarify meaning by indicating separation of words into sentences and clauses and phrases",
+}, {
+    "name": "monsoon",
+    "desc": "any wind that changes direction with the seasons",
+}, {
+    "name": "fowl",
+    "desc": "a domesticated gallinaceous bird thought to be descended from the red jungle fowl",
+}, {
+    "name": "patina",
+    "desc": "a fine coating of oxide (produced by oxidation over a long period of time) on the surface of a metal (particularly copper)",
+}, {
+    "name": "turntable",
+    "desc": "a revolving tray placed on a dining table",
+}, {
+    "name": "lockout",
+    "desc": "a management action resisting employee's demands; employees are barred from entering the workplace until they agree to terms",
+}, {
+    "name": "indoctrination",
+    "desc": "teaching someone to accept doctrines uncritically",
+}, {
+    "name": "daydream",
+    "desc": "absentminded dreaming while awake",
+}, {
+    "name": "handset",
+    "desc": "telephone set with the mouthpiece and earpiece mounted on a single handle",
+}, {
+    "name": "stricture",
+    "desc": "abnormal narrowing of a bodily canal or passageway",
+}, {
+    "name": "sturgeon",
+    "desc": "large primitive fishes valued for their flesh and roe; widely distributed in the North Temperate Zone",
+}, {
+    "name": "drawl",
+    "desc": "a slow speech pattern with prolonged vowels",
+}, {
+    "name": "sneer",
+    "desc": "a facial expression of contempt or scorn; the upper lip curls",
+}, {
+    "name": "countenance",
+    "desc": "the appearance conveyed by a person's face",
+}, {
+    "name": "invisibility",
+    "desc": "the quality of not being perceivable by the eye",
+}, {
+    "name": "foodstuff",
+    "desc": "a substance that can be used or prepared for use as food",
+}, {
+    "name": "alertness",
+    "desc": "a state of readiness to respond",
+}, {
+    "name": "sorbet",
+    "desc": "an ice containing no milk but having a mushy consistency; usually made from fruit juice",
+}, {
+    "name": "dynamism",
+    "desc": "the activeness of an energetic personality",
+}, {
+    "name": "sequin",
+    "desc": "adornment consisting of a small piece of shiny material used to decorate clothing",
+}, {
+    "name": "restlessness",
+    "desc": "a lack of patience; irritation with anything that causes delay",
+}, {
+    "name": "islander",
+    "desc": "an inhabitant of an island",
+}, {
+    "name": "leaning",
+    "desc": "a natural inclination",
+}, {
+    "name": "amplification",
+    "desc": "the amount of increase in signal power or voltage or current expressed as the ratio of output to input",
+}, {
+    "name": "ouster",
+    "desc": "the act of ejecting someone or forcing them out",
+}, {
+    "name": "co-pilot",
+    "desc": "a relief pilot on an airplane",
+}, {
+    "name": "chairmanship",
+    "desc": "the position of chairman",
+}, {
+    "name": "claimant",
+    "desc": "someone who claims a benefit or right or title",
+}, {
+    "name": "interrelationship",
+    "desc": "mutual or reciprocal relation or relatedness",
+}, {
+    "name": "radiologist",
+    "desc": "a medical specialist who uses radioactive substances and X-rays in the treatment of disease",
+}, {
+    "name": "carousel",
+    "desc": "a large, rotating machine with seats for children to ride or amusement",
+}, {
+    "name": "suitability",
+    "desc": "the quality of having the properties that are right for a specific purpose",
+}, {
+    "name": "smattering",
+    "desc": "a small number or amount",
+}, {
+    "name": "habitation",
+    "desc": "the act of dwelling in or living permanently in a place (said of both animals and men)",
+}, {
+    "name": "pacifist",
+    "desc": "someone opposed to violence as a means of settling disputes",
+}, {
+    "name": "allergen",
+    "desc": "any substance that can cause an allergy",
+}, {
+    "name": "embellishment",
+    "desc": "elaboration of an interpretation by the use of decorative (sometimes fictitious) detail",
+}, {
+    "name": "fell",
+    "desc": "pass away rapidly",
+}, {
+    "name": "misfit",
+    "desc": "someone unable to adapt to their circumstances",
+}, {
+    "name": "neurosurgeon",
+    "desc": "someone who does surgery on the nervous system (especially the brain)",
+}, {
+    "name": "derision",
+    "desc": "the act of deriding or treating with contempt",
+}, {
+    "name": "atlas",
+    "desc": "the 1st cervical vertebra",
+}, {
+    "name": "downsizing",
+    "desc": "the reduction of expenditures in order to become financially stable",
+}, {
+    "name": "beater",
+    "desc": "an implement for beating",
+}, {
+    "name": "abrasion",
+    "desc": "erosion by friction",
+}, {
+    "name": "hazelnut",
+    "desc": "any of several shrubs or small trees of the genus Corylus bearing edible nuts enclosed in a leafy husk",
+}, {
+    "name": "smock",
+    "desc": "a loose coverall (coat or frock) reaching down to the ankles",
+}, {
+    "name": "photocopy",
+    "desc": "reproduce by xerography",
+}, {
+    "name": "unicorn",
+    "desc": "an imaginary creature represented as a white horse with a long horn growing from its forehead",
+}, {
+    "name": "roost",
+    "desc": "sit, as on a branch",
+}, {
+    "name": "insensitivity",
+    "desc": "the inability to respond to affective changes in your interpersonal environment",
+}, {
+    "name": "trimester",
+    "desc": "a period of three months; especially one of the three three-month periods into which human pregnancy is divided",
+}, {
+    "name": "hologram",
+    "desc": "the intermediate photograph (or photographic record) that contains information for reproducing a three-dimensional image by holography",
+}, {
+    "name": "pacemaker",
+    "desc": "a horse used to set the pace in racing",
+}, {
+    "name": "anvil",
+    "desc": "the ossicle between the malleus and the stapes",
+}, {
+    "name": "thistle",
+    "desc": "any of numerous plants of the family Compositae and especially of the genera Carduus and Cirsium and Onopordum having prickly-edged leaves",
+}, {
+    "name": "headband",
+    "desc": "a band worn around or over the head",
+}, {
+    "name": "boldness",
+    "desc": "the quality of standing out strongly and distinctly",
+}, {
+    "name": "churn",
+    "desc": "be agitated",
+}, {
+    "name": "hideout",
+    "desc": "a hiding place; usually a remote place used by outlaws",
+}, {
+    "name": "populism",
+    "desc": "the political doctrine that supports the rights and powers of the common people in their struggle with the privileged elite",
+}, {
+    "name": "dioxin",
+    "desc": "any of several toxic or carcinogenic hydrocarbons that occur as impurities in herbicides",
+}, {
+    "name": "savagery",
+    "desc": "the trait of extreme cruelty",
+}, {
+    "name": "hang",
+    "desc": "fall or flow in a certain way",
+}, {
+    "name": "undertone",
+    "desc": "a subdued emotional quality underlying an utterance; implicit meaning",
+}, {
+    "name": "microchip",
+    "desc": "electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit",
+}, {
+    "name": "seamstress",
+    "desc": "someone who makes or mends dresses",
+}, {
+    "name": "ostrich",
+    "desc": "fast-running African flightless bird with two-toed feet; largest living bird",
+}, {
+    "name": "fortification",
+    "desc": "defensive structure consisting of walls or mounds built around a stronghold to strengthen it",
+}, {
+    "name": "floodplain",
+    "desc": "a low plain adjacent to a river that is formed chiefly of river sediment and is subject to flooding",
+}, {
+    "name": "tinge",
+    "desc": "a slight but appreciable amount",
+}, {
+    "name": "congruence",
+    "desc": "the quality of agreeing; being suitable and appropriate",
+}, {
+    "name": "luminosity",
+    "desc": "the quality of being luminous; emitting or reflecting light",
+}, {
+    "name": "receptacle",
+    "desc": "a container that is used to put or keep things in",
+}, {
+    "name": "robin",
+    "desc": "small Old World songbird with a reddish breast",
+}, {
+    "name": "elation",
+    "desc": "a feeling of joy and pride",
+}, {
+    "name": "wrangling",
+    "desc": "an instance of intense argument (as in bargaining)",
+}, {
+    "name": "hardcover",
+    "desc": "having a hard back or cover",
+}, {
+    "name": "orator",
+    "desc": "a person who delivers a speech or oration",
+}, {
+    "name": "divination",
+    "desc": "the art or gift of prophecy (or the pretense of prophecy) by supernatural means",
+}, {
+    "name": "cachet",
+    "desc": "a warrant formerly issued by a French king who could warrant imprisonment or death in a signed letter under his seal",
+}, {
+    "name": "glade",
+    "desc": "a tract of land with few or no trees in the middle of a wooded area",
+}, {
+    "name": "sandpaper",
+    "desc": "stiff paper coated with powdered emery or sand",
+}, {
+    "name": "oddball",
+    "desc": "a person with an unusual or odd personality",
+}, {
+    "name": "bigot",
+    "desc": "a prejudiced person who is intolerant of any opinions differing from his own",
+}, {
+    "name": "jellyfish",
+    "desc": "large siphonophore having a bladderlike float and stinging tentacles",
+}, {
+    "name": "implantation",
+    "desc": "(embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals",
+}, {
+    "name": "ilk",
+    "desc": "a kind of person",
+}, {
+    "name": "canine",
+    "desc": "any of various fissiped mammals with nonretractile claws and typically long muzzles",
+}, {
+    "name": "stasis",
+    "desc": "an abnormal state in which the normal flow of a liquid (such as blood) is slowed or stopped",
+}, {
+    "name": "overuse",
+    "desc": "exploitation to the point of diminishing returns",
+}, {
+    "name": "prick",
+    "desc": "insulting terms of address for people who are stupid or irritating or ridiculous",
+}, {
+    "name": "internment",
+    "desc": "the act of confining someone in a prison (or as if in a prison)",
+}, {
+    "name": "heft",
+    "desc": "the property of being large in mass",
+}, {
+    "name": "brewer",
+    "desc": "someone who brews beer or ale from malt and hops and water",
+}, {
+    "name": "inferno",
+    "desc": "(Christianity) the abode of Satan and the forces of evil; where sinners suffer eternal punishment",
+}, {
+    "name": "bulwark",
+    "desc": "a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away",
+}, {
+    "name": "altercation",
+    "desc": "noisy quarrel",
+}, {
+    "name": "e",
+    "desc": "a radioactive transuranic element produced by bombarding plutonium with neutrons",
+}, {
+    "name": "moccasin",
+    "desc": "soft leather shoe; originally worn by Native Americans",
+}, {
+    "name": "poke",
+    "desc": "hit hard with the hand, fist, or some heavy instrument",
+}, {
+    "name": "blasphemy",
+    "desc": "blasphemous behavior; the act of depriving something of its sacred character",
+}, {
+    "name": "sunspot",
+    "desc": "a cooler darker spot appearing periodically on the sun's photosphere; associated with a strong magnetic field",
+}, {
+    "name": "steppe",
+    "desc": "extensive plain without trees (associated with eastern Russia and Siberia)",
+}, {
+    "name": "irritability",
+    "desc": "excessive sensitivity of an organ or body part",
+}, {
+    "name": "scaling",
+    "desc": "the act of arranging in a graduated series",
+}, {
+    "name": "assay",
+    "desc": "an appraisal of the state of affairs",
+}, {
+    "name": "sloth",
+    "desc": "apathy and inactivity in the practice of virtue (personified as one of the deadly sins)",
+}, {
+    "name": "laziness",
+    "desc": "apathy and inactivity in the practice of virtue (personified as one of the deadly sins)",
+}, {
+    "name": "mexican",
+    "desc": "a native or inhabitant of Mexico",
+}, {
+    "name": "implement",
+    "desc": "pursue to a conclusion or bring to a successful issue",
+}, {
+    "name": "sundae",
+    "desc": "ice cream served with a topping",
+}, {
+    "name": "sender",
+    "desc": "set used to broadcast radio or tv signals",
+}]
